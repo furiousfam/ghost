@@ -1,2 +1,0 @@
-# ghost
-Tutorials for Ghost
